@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Mike Doe - Developer"
+    email: "mike@eazybank.com"
+  onCallSupport:
+    - (555) 663-2212
+    - (555) 123-7787
