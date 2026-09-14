@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs(Updated the message on the fly) "
+  message: "Welcome to EazyBank accounts related local APIs(Updated the message on the car's fly system) "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
