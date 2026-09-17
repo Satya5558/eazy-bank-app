@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related local APIs(Updated the message on the car's fly system) "
   contactDetails:
-    name: "michael Doe - Developer"
-    email: "michael@eazybank.com"
+    name: "lukas Doe - Developer"
+    email: "lukasl@eazybank.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
