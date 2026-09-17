@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related webhook  updated APIs with validations "
   contactDetails:
-    name: "Rayudu Aishwarya - Product Owner"
+    name: "Rayudu Venkata - Product Owner"
     email: "{cipher}5045dcd8fec8ac7bc63affb21f2cc55c91d85e1645366e948d5b1a19b6a59a928a04380f417215836a54edfa9a4c5102"
   onCallSupport:
     - (453) 392-4829
